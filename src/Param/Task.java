@@ -19,6 +19,7 @@ public class Task {
 		driver.findElement(By.xpath("//span[contains(@class,'sc-12foipm-92 ')]")).click();
 		System.out.println();
 		
+		System.out.println("1234");
 		
 
 	}
