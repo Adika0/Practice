@@ -21,6 +21,9 @@ public class Task {
 		System.out.println();
 		
 		
+		System.out.println("1234");
+		
+		System.out.println("abcd");
 		
 
 	}
