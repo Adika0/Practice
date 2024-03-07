@@ -17,7 +17,7 @@ public class Task {
 		driver.findElement(By.xpath("(//p[text()='Enter city or airport'])[1]")).sendKeys("Pune");
 		driver.findElement(By.xpath("(//p[text()='Enter city or airport'])[2]")).sendKeys("Gujrath");
 		driver.findElement(By.xpath("//span[contains(@class,'sc-12foipm-92 ')]")).click();
-		
+		System.out.println();
 		
 		
 
